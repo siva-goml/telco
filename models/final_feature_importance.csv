@@ -1,0 +1,25 @@
+feature,importance
+num__tenure,0.1784853834167654
+num__TotalCharges,0.026345310631512964
+cat__Contract_Month-to-month,0.012631554425871317
+cat__Contract_Two year,0.01227785226560909
+cat__PaperlessBilling_No,0.005679812187129485
+num__MonthlyCharges,0.004191622966180164
+cat__InternetService_DSL,0.0034912072723130684
+cat__TechSupport_Yes,0.00258786256736252
+cat__OnlineSecurity_Yes,0.002082481324836516
+cat__PaymentMethod_Mailed check,0.0014743413866470045
+cat__PaymentMethod_Electronic check,0.0013165796108110862
+cat__PaymentMethod_Credit card (automatic),0.0010635654420176443
+cat__InternetService_Fiber optic,0.0008040803226156634
+cat__OnlineBackup_Yes,0.0007866087559726509
+cat__TechSupport_No,0.0004942512074793237
+cat__Contract_One year,0.0003436074773128017
+cat__InternetService_No,0.0002788979712274986
+cat__OnlineBackup_No internet service,0.0002788979712274986
+cat__OnlineSecurity_No internet service,0.0002788979712274986
+cat__TechSupport_No internet service,0.0002788979712274986
+cat__OnlineSecurity_No,0.00015064373016647757
+cat__OnlineBackup_No,-0.0001580206138603546
+cat__PaperlessBilling_Yes,-0.0002656972319862394
+cat__PaymentMethod_Bank transfer (automatic),-0.0007800083863520379
